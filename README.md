@@ -1,4 +1,4 @@
 # Web-Search-Engine
-Windsor - Project
+University of Windsor - Project
 ACC - Web Search Engine
-Intake - InterSUmmer 2021
+Intake - InterSummer 2021
